@@ -1,0 +1,54 @@
+{
+    "signup": {
+        "name": "Renato Sarda",
+        "cpf": "00000014141",
+        "email": "renato@hotmail.com",
+        "whatsapp": "48999999999",
+        "address": {
+            "postalcode": "88052100",
+            "street": "Rua Intendente Antônio Damasco",
+            "number": "4359",
+            "details": "casa",
+            "district": "Ratones",
+            "city_state": "Florianópolis/SC"
+        },
+        
+        "delivery_method": "Van/Carro",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Joao Pedro",
+        "cpf": "0000cd014141",
+        "email": "joao@hotmail.com",
+        "whatsapp": "48999999999",
+        "address": {
+            "postalcode": "88052100",
+            "street": "Rua Intendente Antônio Damasco",
+            "number": "4359",
+            "details": "casa",
+            "district": "Ratones",
+            "city_state": "Florianópolis/SC"
+        },
+        
+        "delivery_method": "Van/Carro",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Joao Pedro",
+        "cpf": "00000014141",
+        "email": "joao.hotmail.com",
+        "whatsapp": "48999999999",
+        "address": {
+            "postalcode": "88052100",
+            "street": "Rua Intendente Antônio Damasco",
+            "number": "4359",
+            "details": "casa",
+            "district": "Ratones",
+            "city_state": "Florianópolis/SC"
+        },
+        
+        "delivery_method": "Van/Carro",
+        "cnh": "/images/cnh-digital.jpg"
+    }
+}
